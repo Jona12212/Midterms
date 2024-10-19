@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Form1.resources
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\JONALYN\source\repos\EmployeeApplication\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
