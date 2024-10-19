@@ -1,0 +1,10 @@
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\bin\Debug\CashApplication1.exe.config
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\bin\Debug\CashApplication1.exe
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\bin\Debug\CashApplication1.pdb
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.csproj.AssemblyReference.cache
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.Form1.resources
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.Properties.Resources.resources
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.csproj.GenerateResource.cache
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.csproj.CoreCompileInputs.cache
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.exe
+C:\Users\JONALYN\source\repos\CashApplication1\CashApplication1\obj\Debug\CashApplication1.pdb
